@@ -1,5 +1,4 @@
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DarlingUUi)
-# I'm Minami Akira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h2> I'm Minami Akira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 - 👨‍💻 All of my projects are available at [My personal site](https://minamiakira.netlify.app)
 
