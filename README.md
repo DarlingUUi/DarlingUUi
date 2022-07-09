@@ -8,4 +8,4 @@
 
 - 💖 **Slack** https://join.slack.com/t/bdragonsgroup/shared_invite/zt-1a7b6u292-XJEjn59P8XTXgIDXLIoyWw
 
-- 💖 **Telegram** https://t.me/MinamiAkira![image](https://user-images.githubusercontent.com/102749725/178102607-c878a360-dea0-49b6-9e4b-7ec0e169cc03.png)
+- 💖 **Telegram** https://t.me/MinamiAkira![image]
