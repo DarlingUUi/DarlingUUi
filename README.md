@@ -1,8 +1,5 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,unity,tailwind,graphql,astro,nodejs,git,express,postgres)](https://skillicons.dev)
 
-- 👨‍💻 All of my projects are available at [My personal site](https://minamiakira.netlify.app)
-
-- 📫 How to reach me **Minami.dev1994@gmail.com**
 
 - 💖 **Skype** https://join.skype.com/invite/yo0vbSVZibc8
 
