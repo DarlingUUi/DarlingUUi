@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="498" height="280" />
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DarlingUUi.DarlingUUi)](https://github.com/DarlingUUi) 
 [![GitHub followers](https://img.shields.io/github/followers/DarlingUUi.svg?style=social&label=Follow)](https://github.com/DarlingUUi?tab=followers)
 <br />
