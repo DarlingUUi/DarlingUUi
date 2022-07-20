@@ -1,6 +1,3 @@
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DarlingUUi.DarlingUUi)](https://github.com/DarlingUUi) 
-[![GitHub followers](https://img.shields.io/github/followers/DarlingUUi.svg?style=social&label=Follow)](https://github.com/DarlingUUi?tab=followers)
-<br/>
 <h1 align="center">
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DarlingUUi.DarlingUUi" />
   <img align="right" src="https://img.shields.io/github/followers/DarlingUUi?label=Follow&style=social" />
