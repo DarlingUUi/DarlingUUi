@@ -5,19 +5,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,unity,tailwind,graphql,astro,nodejs,git,express,postgres)](https://skillicons.dev)
   
-<div align="center" >
-  <a  align="center" href="https://github.com/DarlingUUi" title="Go to Source">
-    <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=DarlingUUi&theme=react&border=61dafb&hide_border=true" alt="DarlingUUi" />
-  </a>
-</div>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarlingUUi&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Web+and+Mobile+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Svelte%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50">
-  </a>
-</p>
-
 <img src="https://github.com/DarlingUUi/DarlingUUi/blob/main/1.gif" alt="Awesome Badge" width="100%" height="450px"/>
 <div align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
