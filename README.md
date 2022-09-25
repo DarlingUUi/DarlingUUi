@@ -15,3 +15,4 @@
 ## Typical Projects
 
 - [KillerGF](https://killergf.com/)
+- [Shivaverse](https://shibaverse.io/)
