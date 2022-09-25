@@ -11,9 +11,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,unity,tailwind,graphql,astro,nodejs,git,express,postgres)
 
-https://killergf.com/
-## Acknowledgements
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+## Typical Projects
+
+- [KillerGF](https://killergf.com/)
