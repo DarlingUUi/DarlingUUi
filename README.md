@@ -2,7 +2,7 @@
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DarlingUUi.DarlingUUi" />
   <img align="right" src="https://img.shields.io/github/followers/DarlingUUi?label=Follow&style=social" />
 </h1>
-## Hey I'm Minami Akira 
+Hey I'm Minami Akira 
 
 - 👨‍💻 All of my projects are available at [My personal site](https://minami.netlify.app)
 
@@ -13,10 +13,6 @@
 - 💖 **Slack** https://join.slack.com/t/bdragonsgroup/shared_invite/zt-1a7b6u292-XJEjn59P8XTXgIDXLIoyWw
 
 - 💖 **Telegram** https://t.me/MinamiAkira
-
-
-## Languages and Tools:
-## ![Uploading image.png…]()
 
 <img height="10px" />
 
