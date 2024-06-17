@@ -12,7 +12,7 @@ Hey I'm Minami Akira
 
 - 💖 **Slack** https://join.slack.com/t/bdragonsgroup/shared_invite/zt-1a7b6u292-XJEjn59P8XTXgIDXLIoyWw
 
-- 💖 **Telegram** https://t.me/MinamiAkira
+- 💖 **Telegram** https://t.me/NightDragon95
 
 <img height="10px" />
 
