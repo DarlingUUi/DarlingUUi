@@ -4,13 +4,9 @@
 </h1>
 Hey I'm Minami Akira 
 
-- 👨‍💻 All of my projects are available at [My personal site](https://minami.netlify.app)
-
 - 📫 How to reach me **Minami.dev1994@gmail.com**
 
 - 💖 **Skype** https://join.skype.com/invite/yo0vbSVZibc8
-
-- 💖 **Slack** https://join.slack.com/t/minami-akira/shared_invite/zt-2kqny32c6-YhFS_4HnmHdUiE0pqVmL2w
 
 - 💖 **Telegram** https://t.me/NightDragon95
 
