@@ -4,8 +4,6 @@
 </h1>
 
 - 💖 **Discord** https://discord.com/users/1017964676719587388
-- 💖 **Skype** https://join.skype.com/invite/yo0vbSVZibc8
-- 💖 **Telegram** https://t.me/NightDragon95
 
 ## Typical Projects
 
