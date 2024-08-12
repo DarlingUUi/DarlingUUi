@@ -2,7 +2,6 @@
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DarlingUUi.DarlingUUi" />
   <img align="right" src="https://img.shields.io/github/followers/DarlingUUi?label=Follow&style=social" />
 </h1>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
